@@ -45,13 +45,12 @@ How far can you go in less than 5 seconds?
 
 ## Author
 
-👤 **Eki Victory**
+👤 **Yonas Desta**
 
-- GitHub: [@ekivictory1](https://github.com/ekivictory1)
-- Twitter: [@victory_eki](https://twitter.com/victory_eki)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/eki-victory-371263134)
+- GitHub: [@Eldorado16](https://github.com/Eldorado16)
 
-**Victory @ ALX software engineering programme 2022.**
+
+**Victory @ ALX software engineering programme 2023.**
 ## Show your support
 
 Give a ⭐️ if you like this project!
